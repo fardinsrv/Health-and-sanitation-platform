@@ -12,6 +12,40 @@ A centralized digital platform addressing critical public health and sanitation 
 📆 Streamlining bookings, communication, and donations for health services
 
 
+ 
+
+Link of Deployed Project 
+
+https://health-and-sanitation-platform.firebaseapp.com/
+
+Admin 
+
+email : fardinnoor@gmail.com  
+
+Password : 123456 
+
+Volunteer : 
+
+Mail: abirkhandakar@gmai.com( 
+
+pass:123456 
+
+ 
+
+Doctor: 
+
+Mail: fardin.noor@gmail.com 
+
+Pass : 1234567 
+
+
+Teacher: 
+
+Mail: sumon@gmail.com 
+
+Pass:123456 
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
